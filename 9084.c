@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int coin[20];
 int main(void){
     int T,N,M;
